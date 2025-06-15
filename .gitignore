@@ -1,0 +1,19 @@
+# Ignorar el entorno virtual
+env_depth_obj/
+
+# Ignorar archivos temporales de Python
+*.pyc
+__pycache__/
+
+# Ignorar archivos de Jupyter Notebook Checkpoints
+*.ipynb_checkpoints/
+
+# Ignorar configuraciones locales de VS Code
+.vscode/
+
+# Ignorar archivos de datos grandes o sensibles
+secrets.env
+
+# Ignorar archivos específicos
+Enviroment display.txt
+Github upload.txt
