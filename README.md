@@ -13,7 +13,7 @@ Explore how to apply deep learning models to estimate depth and segment moving o
 
 🤖 **Models:**
 
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-Intel/dpt-large-purple)](https://huggingface.co/Intel/dpt-large) [![PyTorch](https://img.shields.io/badge/PyTorch-Intel/maskrcnn_resnet50_fpn-purple)](https://docs.pytorch.org/vision/main/models/generated/torchvision.models.detection.maskrcnn_resnet50_fpn.html#torchvision.models.detection.maskrcnn_resnet50_fpn)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Intel/dpt_large-purple)](https://huggingface.co/Intel/dpt-large) [![PyTorch](https://img.shields.io/badge/PyTorch-Intel/maskrcnn_resnet50_fpn-purple)](https://docs.pytorch.org/vision/main/models/generated/torchvision.models.detection.maskrcnn_resnet50_fpn.html#torchvision.models.detection.maskrcnn_resnet50_fpn)
 
 🎞️ **Visual Demo:**
 
