@@ -19,7 +19,7 @@ Explore how to apply deep learning models to estimate depth and segment moving o
 
 | **Original** | **Processed (Depth + Masks)** |
 |---|---|
-| ![Original](notebook/driving_highway.gif) | ![Processed](notebook/gifHighway_depth_mask.gif) |
+| ![Original](data/gifs/driving_highway.gif) | ![Processed](notebook/gifHighway_depth_mask.gif) |
 
 
 🌍 **Language:**
