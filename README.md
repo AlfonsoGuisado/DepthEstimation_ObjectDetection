@@ -9,7 +9,7 @@ Explore how to apply deep learning models to estimate depth and segment moving o
   
 🛠️ **Tools & Dependencies:**
 
-[![Python](https://img.shields.io/badge/Python-3.12.10-blue)](https://www.python.org/downloads/release/python-31210/) [![NumPy](https://img.shields.io/badge/NumPy-2.2.4-green)](https://numpy.org/) [![Transformers](https://img.shields.io/badge/Transformers-4.52.4-green)](https://huggingface.co/docs/transformers/es/index) [![PyTorch](https://img.shields.io/badge/PyTorch-2.7.1-green)](https://pytorch.org/) [![Torchvision](https://img.shields.io/badge/Torchvision-0.22.1-green)](https://docs.pytorch.org/vision/stable/index.html)
+[![Python](https://img.shields.io/badge/Python-3.12.10-blue)](https://www.python.org/downloads/release/python-31210/) [![NumPy](https://img.shields.io/badge/NumPy-2.3.0-green)](https://numpy.org/) [![Transformers](https://img.shields.io/badge/Transformers-4.52.4-green)](https://huggingface.co/docs/transformers/es/index) [![PyTorch](https://img.shields.io/badge/PyTorch-2.7.1-green)](https://pytorch.org/) [![Torchvision](https://img.shields.io/badge/Torchvision-0.22.1-green)](https://docs.pytorch.org/vision/stable/index.html)
 
 🤖 **Models:**
 
